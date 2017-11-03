@@ -15,4 +15,4 @@ tags:
 Visit our online store
 ---------
 
-TBD
+{{< etsy >}}
