@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://sicilyart.com/posts/etsy-store/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/tags/etsy/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/posts/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/tags/purchase/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/categories/purchase/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/tags/store/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/categories/store/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sicilyart.com/tags/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

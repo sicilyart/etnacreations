@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sicily Art</title>
+    <link>http://sicilyart.com/categories/</link>
+    <description>Recent content in Categories on Sicily Art</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://sicilyart.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Purchase</title>
+      <link>http://sicilyart.com/categories/purchase/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sicilyart.com/categories/purchase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store</title>
+      <link>http://sicilyart.com/categories/store/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sicilyart.com/categories/store/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
