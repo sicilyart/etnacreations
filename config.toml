@@ -147,4 +147,5 @@ publishDir = "docs"
 
 
 [Languages.it.params]
-linkedin = "english-link"
+	name = "Italian Name"
+	description = "Descriptioni"
