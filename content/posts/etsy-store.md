@@ -15,6 +15,4 @@ tags:
 Visit our online store
 ---------
 
-test
-{{ etsy }}
-test
+<script type='text/javascript' src='http://www.etsy.com/assets/js/etsy_mini_shop.js'></script><script type='text/javascript'>new Etsy.Mini(5190164,'gallery',4,5,0,'http://www.etsy.com');</script>
