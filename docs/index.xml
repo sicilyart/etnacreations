@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sicily Art</title>
-    <link>http://sicilyart.com/</link>
-    <description>Recent content on Sicily Art</description>
+    <title>Etna Creations</title>
+    <link>https://sicilyart.github.io/etnacreations/</link>
+    <description>Recent content on Etna Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://sicilyart.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sicilyart.github.io/etnacreations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Etsy Store</title>
-      <link>http://sicilyart.com/posts/etsy-store/</link>
+      <link>https://sicilyart.github.io/etnacreations/posts/etsy-store/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://sicilyart.com/posts/etsy-store/</guid>
+      <guid>https://sicilyart.github.io/etnacreations/posts/etsy-store/</guid>
       <description> Visit our online store new Etsy.Mini(10101010,&#39;gallery&#39;,4,5,1,&#39;https://www.etsy.com&#39;); </description>
     </item>
     

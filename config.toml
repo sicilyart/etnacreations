@@ -1,6 +1,6 @@
-baseurl = "http://sicilyart.com/"
+baseurl = "https://sicilyart.github.io/etnacreations/"
 languageCode = "en-us"
-title = "Sicily Art"
+title = "Etna Creations"
 theme = "strata"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code

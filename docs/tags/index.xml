@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Sicily Art</title>
-    <link>http://sicilyart.com/tags/</link>
-    <description>Recent content in Tags on Sicily Art</description>
+    <title>Tags on Etna Creations</title>
+    <link>https://sicilyart.github.io/etnacreations/tags/</link>
+    <description>Recent content in Tags on Etna Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://sicilyart.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sicilyart.github.io/etnacreations/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Etsy</title>
-      <link>http://sicilyart.com/tags/etsy/</link>
+      <link>https://sicilyart.github.io/etnacreations/tags/etsy/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://sicilyart.com/tags/etsy/</guid>
+      <guid>https://sicilyart.github.io/etnacreations/tags/etsy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Purchase</title>
-      <link>http://sicilyart.com/tags/purchase/</link>
+      <link>https://sicilyart.github.io/etnacreations/tags/purchase/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://sicilyart.com/tags/purchase/</guid>
+      <guid>https://sicilyart.github.io/etnacreations/tags/purchase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Store</title>
-      <link>http://sicilyart.com/tags/store/</link>
+      <link>https://sicilyart.github.io/etnacreations/tags/store/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://sicilyart.com/tags/store/</guid>
+      <guid>https://sicilyart.github.io/etnacreations/tags/store/</guid>
       <description></description>
     </item>
     
