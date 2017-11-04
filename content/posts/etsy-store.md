@@ -16,5 +16,5 @@ Visit our online store
 ---------
 
 test
-{{< etsy >}}
+{{ etsy }}
 test
