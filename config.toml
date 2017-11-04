@@ -42,7 +42,7 @@ publishDir = "docs"
 		linkedin = ""
 
 		copyright = [
-			"&copy; Manuelo",
+			"&copy; Manuel Badala",
 		]
 
 
@@ -144,3 +144,7 @@ publishDir = "docs"
 #	name = "Blog"
 #	url  = "post/"
 #	weight = 0
+
+
+[Languages.it.params]
+linkedin = "english-link"
