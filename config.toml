@@ -9,6 +9,7 @@ googleAnalytics = ""
 paginate = 1
 publishDir = "docs"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
