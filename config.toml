@@ -63,40 +63,65 @@ disableKinds=["RSS"]
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
+			image = "fulls/horns.jpg"
+			thumb = "thumbs/horns.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
+			image = "fulls/tile.jpg"
+			thumb = "thumbs/tile.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
+			image = "fulls/totem.jpg"
+			thumb = "thumbs/totem.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
+			image = "fulls/totem2.jpg"
+			thumb = "thumbs/totem2.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
+			image = "fulls/vase.jpg"
+			thumb = "thumbs/vase.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
+			image = "fulls/vase2.jpg"
+			thumb = "thumbs/vase2.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/table.jpg"
+			thumb = "thumbs/table.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/table.jpg"
+			thumb = "thumbs/table.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/vase-progress.jpg"
+			thumb = "thumbs/vase-progress.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/painting.jpg"
+			thumb = "thumbs/painting.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
 
 	[params.recentposts]
 		hide  = false
