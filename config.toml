@@ -2,14 +2,14 @@ baseurl = "https://sicilyart.github.io/etnacreations/"
 languageCode = "en-us"
 title = "Etna Creations"
 theme = "strata"
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 1
 publishDir = "docs"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+disableKinds=["RSS"]
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
@@ -34,11 +34,11 @@ defaultContentLanguageInSubdir = true
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "Inspired by the lush<br> vegetation of Sicily,<br> we create art and paint with<br> wood and local stone<br>"
 		# The icons will be shown if you enter your username
-		twitter = "spf13"
-		github = "spf13"
-		gitlab = "spf13"
+		twitter = ""
+		github = ""
+		gitlab = ""
 		dribbble = ""
-		facebook = ""
+		facebook = "manuel"
 		googleplus = ""
 		flickr = ""
 		linkedin = ""
@@ -146,7 +146,3 @@ defaultContentLanguageInSubdir = true
 #	name = "Blog"
 #	url  = "post/"
 #	weight = 0
-
-
-[Languages.it.params]
-	description = "Descriptioni"
