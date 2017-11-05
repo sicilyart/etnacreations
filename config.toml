@@ -58,25 +58,14 @@ disableKinds=["RSS"]
 
 	[params.portfolio]
 		hide  = false
-		title = "What we do"
+		title = "Our creations"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
-		[[params.portfolio.gallery]]
-			image = "fulls/horns.jpg"
-			thumb = "thumbs/horns.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/tile.jpg"
-			thumb = "thumbs/tile.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/totem.jpg"
-			thumb = "thumbs/totem.jpg"
+			image = "fulls/vase2.jpg"
+			thumb = "thumbs/vase2.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
@@ -87,20 +76,26 @@ disableKinds=["RSS"]
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
+			image = "fulls/tile.jpg"
+			thumb = "thumbs/tile.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/horns.jpg"
+			thumb = "thumbs/horns.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
 			image = "fulls/vase.jpg"
 			thumb = "thumbs/vase.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
-			image = "fulls/vase2.jpg"
-			thumb = "thumbs/vase2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/table.jpg"
-			thumb = "thumbs/table.jpg"
+			image = "fulls/totem.jpg"
+			thumb = "thumbs/totem.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
