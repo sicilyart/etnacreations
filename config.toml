@@ -30,7 +30,7 @@ disableKinds=["RSS"]
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "logo.png"
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "Works of art created at the feet of Mount Etna"
 		# The icons will be shown if you enter your username
