@@ -31,25 +31,25 @@
   </url>
   
   <url>
-    <loc>https://sicilyart.github.io/etnacreations/categories/purchase/</loc>
-    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sicilyart.github.io/etnacreations/tags/purchase/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sicilyart.github.io/etnacreations/categories/store/</loc>
+    <loc>https://sicilyart.github.io/etnacreations/categories/purchase/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sicilyart.github.io/etnacreations/tags/store/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sicilyart.github.io/etnacreations/categories/store/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
