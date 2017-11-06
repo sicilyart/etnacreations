@@ -6,3 +6,7 @@
 #header .image.avatar {
     width: 8.25em;
 }
+
+#header .image.avatar {
+    background-color: #0b090e;
+}
