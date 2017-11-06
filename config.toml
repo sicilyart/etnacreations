@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [params]
 	name = "Etna Creations"
-	description = "Portfolio of Manual Badala art and creations"
+	description = "Portfolio of the Etna Creations art lab"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -30,7 +30,7 @@ enableRobotsTXT = true
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "logo.png"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "Realized at the<br> feet of Mount Etna"
+		bio = "At the foot of the volcano"
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = ""
@@ -117,6 +117,143 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
+		[[params.portfolio.gallery]]
+			image = "fulls/sculpt.jpg"
+			thumb = "thumbs/sculpt.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/mural1.jpg"
+			thumb = "thumbs/mural1.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/mural2.jpg"
+			thumb = "thumbs/mural2.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/mural3.jpg"
+			thumb = "thumbs/mural3.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/mural4.jpg"
+			thumb = "thumbs/mural4.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/mural5.jpg"
+			thumb = "thumbs/mural5.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/mural6.jpg"
+			thumb = "thumbs/mural6.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/mural7.jpg"
+			thumb = "thumbs/mural7.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint1.jpg"
+			thumb = "thumbs/paint1.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint2.jpg"
+			thumb = "thumbs/paint2.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint3.jpg"
+			thumb = "thumbs/paint3.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint4.jpg"
+			thumb = "thumbs/paint4.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint5.jpg"
+			thumb = "thumbs/paint5.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint6.jpg"
+			thumb = "thumbs/paint6.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint7.jpg"
+			thumb = "thumbs/paint7.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint8.jpg"
+			thumb = "thumbs/paint8.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint9.jpg"
+			thumb = "thumbs/paint9.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint10.jpg"
+			thumb = "thumbs/paint10.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint11.jpg"
+			thumb = "thumbs/paint11.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint12.jpg"
+			thumb = "thumbs/paint12.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint13.jpg"
+			thumb = "thumbs/paint13.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint14.jpg"
+			thumb = "thumbs/paint14.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/paint15.jpg"
+			thumb = "thumbs/paint15.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
 		hide  = false
@@ -163,7 +300,7 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 [languages.it]
 	languageName = "Italiano"
 	name = "Etna Creations"
-	description = "Portfolio of Manual Badala art and creations"
+	description = "Portfolio del laboratorio artistico Etna Creations"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -173,7 +310,7 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 
 	[languages.it.sidebar]
 		avatar = "logo.png"
-		bio = "Realizzato ai<br> piedi dell'Etna"
+		bio = "Ai piedi del vulcano"
 		facebook = "manuel"
 
 		copyright = [
@@ -249,12 +386,150 @@ Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'is
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/sculpt.jpg"
+			thumb = "thumbs/sculpt.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/mural1.jpg"
+			thumb = "thumbs/mural1.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/mural2.jpg"
+			thumb = "thumbs/mural2.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/mural3.jpg"
+			thumb = "thumbs/mural3.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/mural4.jpg"
+			thumb = "thumbs/mural4.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/mural5.jpg"
+			thumb = "thumbs/mural5.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/mural6.jpg"
+			thumb = "thumbs/mural6.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/mural7.jpg"
+			thumb = "thumbs/mural7.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint1.jpg"
+			thumb = "thumbs/paint1.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint2.jpg"
+			thumb = "thumbs/paint2.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint3.jpg"
+			thumb = "thumbs/paint3.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint4.jpg"
+			thumb = "thumbs/paint4.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint5.jpg"
+			thumb = "thumbs/paint5.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint6.jpg"
+			thumb = "thumbs/paint6.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint7.jpg"
+			thumb = "thumbs/paint7.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint8.jpg"
+			thumb = "thumbs/paint8.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint9.jpg"
+			thumb = "thumbs/paint9.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint10.jpg"
+			thumb = "thumbs/paint10.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint11.jpg"
+			thumb = "thumbs/paint11.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint12.jpg"
+			thumb = "thumbs/paint12.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint13.jpg"
+			thumb = "thumbs/paint13.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint14.jpg"
+			thumb = "thumbs/paint14.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
+		[[languages.it.portfolio.gallery]]
+			image = "fulls/paint15.jpg"
+			thumb = "thumbs/paint15.jpg"
+			title = "Lorem ipsum dolor."
+			description = "Lorem ipsum dolor sit amet."
+
 
 	[languages.it.recentposts]
 		title = "Visita il nostro negozio online"
 
 	[languages.it.contact]
-		title = "Get In Touch"
+		title = "Entra in contatto"
 		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
 		email = "meringa92@hotmail.it"
 		address = [
