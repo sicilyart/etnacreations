@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.etnacreations.com/it/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.etnacreations.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://www.etnacreations.com/it/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.etnacreations.com/it/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.etnacreations.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://www.etnacreations.com/it/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.etnacreations.com/it/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.etnacreations.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://www.etnacreations.com/it/tags/"
+                />
+  </url>
+  
+</urlset>
