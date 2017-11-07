@@ -206,8 +206,8 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 		[[params.portfolio.gallery]]
 			image = "fulls/paint7.jpg"
 			thumb = "thumbs/paint7.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "The Siren"
+			description = "Clay sculpture."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint8.jpg"
@@ -218,8 +218,8 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 		[[params.portfolio.gallery]]
 			image = "fulls/paint9.jpg"
 			thumb = "thumbs/paint9.jpg"
-			title = "The Siren"
-			description = "Clay sculpture."
+			title = "Makeup."
+			description = "Carmen Consoli concert."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint10.jpg"
@@ -264,7 +264,7 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "For information or estimates on commissions, feel free to write or call!"
+		content = "For addional information or commissions, feel free to write or call."
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "39.7889055,-120.5443524"
@@ -534,7 +534,7 @@ Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'is
 
 	[languages.it.contact]
 		title = "Entra in contatto"
-		content = "Per informazioni o stime sulle commissioni, sentitevi liberi di scrivere o chiamare!"
+		content = "Per informazioni o stime sulle commissioni, sentitevi liberi di scrivere o chiamare."
 		email = "meringa92@hotmail.it"
 		address = [
 			"Contrada Feotto 7",
