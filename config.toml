@@ -54,7 +54,9 @@ enableRobotsTXT = true
 		content = """Art and craft whose colors and shapes are inspired by the sea, the volcano, and the rich nature of our land, the island of Sicily. 
 The materials used are wood, terracotta and lava stone.
 
-The Etna Creations art lab is immersed in the enchanting nature of the island of Sicily. At the foot of the volcano, washed by the banks of the Ionian Sea is an ideal place for artistic inspiration where you can stay at "The Artist Room"."""
+We also do profressional make-up and create interior and exterior murals.
+
+The Etna Creations art lab is immersed in the enchanting nature of the island of Sicily. At the foot of the volcano, washed by the banks of the Ionian Sea is an ideal place for artistic inspiration."""
 
 	[params.portfolio]
 		hide  = false
@@ -66,140 +68,140 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 		[[params.portfolio.gallery]]
 			image = "fulls/vase2.jpg"
 			thumb = "thumbs/vase2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Hand-painted terracotta vase."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/totem2.jpg"
 			thumb = "thumbs/totem2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "The old man in cypress."
+			description = "Cypress wood sculpture."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/tile.jpg"
 			thumb = "thumbs/tile.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Hand-painted tile."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/horns.jpg"
 			thumb = "thumbs/horns.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Ox horn on wood."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/vase.jpg"
 			thumb = "thumbs/vase.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Terracotta vase: back."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/totem.jpg"
 			thumb = "thumbs/totem.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "The old man in cypress: front."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/table.jpg"
 			thumb = "thumbs/table.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Coffee table in solid cypress."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/vase-progress.jpg"
 			thumb = "thumbs/vase-progress.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "A work in progress."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/painting.jpg"
 			thumb = "thumbs/painting.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "A work in progress."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/sculpt.jpg"
 			thumb = "thumbs/sculpt.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "A work in progress."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/mural1.jpg"
 			thumb = "thumbs/mural1.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Mural."
+			description = "Portrait."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/mural2.jpg"
 			thumb = "thumbs/mural2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Mural."
+			description = "Sports bar decoration."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/mural3.jpg"
 			thumb = "thumbs/mural3.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Mural."
+			description = "Childrens room."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/mural4.jpg"
 			thumb = "thumbs/mural4.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Mural."
+			description = "Shop decoration."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/mural5.jpg"
 			thumb = "thumbs/mural5.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Mural."
+			description = "Interior decoration."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/mural6.jpg"
 			thumb = "thumbs/mural6.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Mural."
+			description = "Interior decoration."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/mural7.jpg"
 			thumb = "thumbs/mural7.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Mural."
+			description = "Sports bar decoration."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint1.jpg"
 			thumb = "thumbs/paint1.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Brides makeup."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint2.jpg"
 			thumb = "thumbs/paint2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Fantasy makeup."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint3.jpg"
 			thumb = "thumbs/paint3.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Fantasy makeup."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint4.jpg"
 			thumb = "thumbs/paint4.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Fantasy makeup."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint5.jpg"
 			thumb = "thumbs/paint5.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Body painting."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint6.jpg"
 			thumb = "thumbs/paint6.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Makeup."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint7.jpg"
@@ -210,53 +212,53 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 		[[params.portfolio.gallery]]
 			image = "fulls/paint8.jpg"
 			thumb = "thumbs/paint8.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "The Siren"
+			description = "Clay sculpture."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint9.jpg"
 			thumb = "thumbs/paint9.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "The Siren"
+			description = "Clay sculpture."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint10.jpg"
 			thumb = "thumbs/paint10.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Fantasy makeup."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint11.jpg"
 			thumb = "thumbs/paint11.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Makeup."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint12.jpg"
 			thumb = "thumbs/paint12.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Makeup."
+			description = ""
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint13.jpg"
 			thumb = "thumbs/paint13.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Makeup."
+			description = "Makeup in progress."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint14.jpg"
 			thumb = "thumbs/paint14.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Makeup."
+			description = "Makeup in progress."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/paint15.jpg"
 			thumb = "thumbs/paint15.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Fantasy makeup."
+			description = "Makeup in progress."
 
 	[params.recentposts]
-		hide  = false
+		hide  = true
 		title = "Visit our online shop"
 
 	[params.contact]
@@ -527,7 +529,7 @@ Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'is
 
 
 	[languages.it.recentposts]
-		hide = false
+		hide = true
 		title = "Visita il nostro negozio online"
 
 	[languages.it.contact]
