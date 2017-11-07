@@ -11,9 +11,8 @@
 
 
 ## To Make changes
-- Images go into sub folder `static/images`
--- Full sized images go into folder `static/images/fulls` and should be maximum 840px
--- Thumbnail images go into folder `static/images/thumbs` and should be maximum 320px
+- Full sized images go into folder `static/images/fulls` and should be maximum 840px
+- Thumbnail images go into folder `static/images/thumbs` and should be maximum 320px
 - Update english and italian text and configuration in `config.toml` file
 - Etsy store code should be put into file `layouts/partials/recent-posts.html`
 
