@@ -30,13 +30,13 @@ enableRobotsTXT = true
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "logo.png"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "At the foot of the volcano"
+		bio = ""
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = ""
 		gitlab = ""
 		dribbble = ""
-		facebook = "manuel"
+		facebook = ""
 		googleplus = ""
 		flickr = ""
 		linkedin = ""
@@ -262,13 +262,13 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "For information or estimates on commissions, feel free to write or call!"
 
 		# This can be exact coordinates or a searchable address in google maps
 		gmaps_address = "39.7889055,-120.5443524"
 		address = [
 			"Contrada Feotto 7",
-			"Fiumefreddo Sicilia",
+			"Fiumefreddo di Sicilia",
 			"Catania 95013"
 		]
 		phone = "+39 34-5051-2780"
@@ -310,8 +310,7 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 
 	[languages.it.sidebar]
 		avatar = "logo.png"
-		bio = "Ai piedi del vulcano"
-		facebook = "manuel"
+		bio = ""
 
 		copyright = [
 			"&copy; Manuel Badala Patane",
@@ -319,11 +318,13 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 
 	[languages.it.about]
 		title = "Etna Creations"
-		content = """Manufatti artici e artigianali, i cui colori e forme ispirano alla nostra terra, l'isola di Sicilia.
+		content = """Manufatti artistici e artigianali, i cui colori e forme ispirano alla nostra terra, l'isola di Sicilia.
 Al mare, al vulcano, alla natura rigogliosa.
 I materiali sono il legno, la terracotta e la pietra lavica.
 
-Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'isola, ai piedi del volcano, bagnato dalle sponde del mare Jonio, luogo ideale di inspirazione artistica, dove è possibile soggiornare presso “La stanza dell'artista”."""
+Inoltre murales interni, esterni e Make-up.
+
+Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'isola, ai piedi del vulcano, bagnato dalle sponde del mare Jonio, luogo ideale di ispirazione artistica."""
 
 
 	[languages.it.portfolio]
@@ -335,206 +336,207 @@ Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'is
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/vase2.jpg"
 			thumb = "thumbs/vase2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Giara in terracotta dipinta a mano."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/totem2.jpg"
 			thumb = "thumbs/totem2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Il vecchio cipresso."
+			description = "Scultura in legno di cipresso."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/tile.jpg"
 			thumb = "thumbs/tile.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Vecchia tegola dipinta a mano."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/horns.jpg"
 			thumb = "thumbs/horns.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Corna di bue su legno."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/vase.jpg"
 			thumb = "thumbs/vase.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Giara in terracotta: retro."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/totem.jpg"
 			thumb = "thumbs/totem.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Il vecchio cipresso: frontale."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/table.jpg"
 			thumb = "thumbs/table.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Tavolo basso in legno massello di cipresso."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/vase-progress.jpg"
 			thumb = "thumbs/vase-progress.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "In fase di realizzazione."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/painting.jpg"
 			thumb = "thumbs/painting.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "In fase di realizzazione."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/sculpt.jpg"
 			thumb = "thumbs/sculpt.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "In fase di realizzazione."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/mural1.jpg"
 			thumb = "thumbs/mural1.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Murales."
+			description = "Ritratto."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/mural2.jpg"
 			thumb = "thumbs/mural2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Murales."
+			description = "Decorazione centro scommesse."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/mural3.jpg"
 			thumb = "thumbs/mural3.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Murales."
+			description = "Camera per bambini."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/mural4.jpg"
 			thumb = "thumbs/mural4.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Murales."
+			description = "Decorazione negozio."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/mural5.jpg"
 			thumb = "thumbs/mural5.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Murales."
+			description = "Decorazione interni."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/mural6.jpg"
 			thumb = "thumbs/mural6.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Murales."
+			description = "Decorazione interni."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/mural7.jpg"
 			thumb = "thumbs/mural7.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Murales."
+			description = "Decorazione centro scommesse."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint1.jpg"
 			thumb = "thumbs/paint1.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up sposa."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint2.jpg"
 			thumb = "thumbs/paint2.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up fantasy."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint3.jpg"
 			thumb = "thumbs/paint3.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up fantasy."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint4.jpg"
 			thumb = "thumbs/paint4.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up fantasy."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint5.jpg"
 			thumb = "thumbs/paint5.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Body painting."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint6.jpg"
 			thumb = "thumbs/paint6.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint7.jpg"
 			thumb = "thumbs/paint7.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Sirena."
+			description = "Scultura in argilla."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint8.jpg"
 			thumb = "thumbs/paint8.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Sirena."
+			description = "Scultura in argilla."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint9.jpg"
 			thumb = "thumbs/paint9.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up."
+			description = "Concerto Carmen Consoli."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint10.jpg"
 			thumb = "thumbs/paint10.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up fantasy."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint11.jpg"
 			thumb = "thumbs/paint11.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint12.jpg"
 			thumb = "thumbs/paint12.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up."
+			description = ""
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint13.jpg"
 			thumb = "thumbs/paint13.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up."
+			description = "Preparazione."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint14.jpg"
 			thumb = "thumbs/paint14.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up."
+			description = "Preparazione."
 
 		[[languages.it.portfolio.gallery]]
 			image = "fulls/paint15.jpg"
 			thumb = "thumbs/paint15.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Make-up fantasy."
+			description = "preparazione."
 
 
 	[languages.it.recentposts]
+		hide = false
 		title = "Visita il nostro negozio online"
 
 	[languages.it.contact]
 		title = "Entra in contatto"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "Per informazioni o stime sulle commissioni, sentitevi liberi di scrivere o chiamare!"
 		email = "meringa92@hotmail.it"
 		address = [
 			"Contrada Feotto 7",
-			"Fiumefreddo Sicilia",
+			"Fiumefreddo di Sicilia",
 			"Catania 95013"
 		]
 		phone = "+39 34-5051-2780"
