@@ -10,3 +10,8 @@
 #header {
     background-color: #0b090e;
 }
+
+ul,
+ul li {
+	padding-left: 0;
+}
