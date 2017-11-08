@@ -1,4 +1,4 @@
-baseurl = "http://www.etnacreations.com/"
+baseurl = "http://etnacreations.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Etna Creations"
@@ -51,10 +51,10 @@ enableRobotsTXT = true
 	[params.about]
 		hide  = false
 		title = "Etna Creations"
-		content = """Art and craft whose colors and shapes are inspired by the sea, the volcano, and the rich nature of our land, the island of Sicily. 
-The materials used are wood, terracotta and lava stone.
+		content = """Etna Creations art lab is the project of Manuel Badala Patane and Antonella Micalizzi. We produce sculptures as well as profressional makeup and interior and exterior murals.
 
-We also do profressional make-up and create interior and exterior murals.
+Art and craft whose colors and shapes are inspired by the sea, the volcano, and the rich nature of our land, the island of Sicily. 
+The materials used are wood, terracotta and lava stone.
 
 The Etna Creations art lab is immersed in the enchanting nature of the island of Sicily. At the foot of the volcano, washed by the banks of the Ionian Sea is an ideal place for artistic inspiration."""
 
@@ -62,200 +62,139 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 		hide  = false
 		title = "Our creations"
 
-		# The images and thumbnails are stored under static/images
-		# Create and change subfolders as you like
+	[params.portfolio.sculpture]
+		image = "sculptures/sculpt.jpg"
+		thumb = "sculptures.jpg"
+		title = "Sculptures"
+		description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/vase2.jpg"
-			thumb = "thumbs/vase2.jpg"
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/vase2.jpg"
 			title = "Hand-painted terracotta vase."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/totem2.jpg"
-			thumb = "thumbs/totem2.jpg"
-			title = "The old man in cypress."
-			description = "Cypress wood sculpture."
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/totem2.jpg"
+			title = "Cypress wood sculpture: The old man in cypress."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/tile.jpg"
-			thumb = "thumbs/tile.jpg"
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/tile.jpg"
 			title = "Hand-painted tile."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/horns.jpg"
-			thumb = "thumbs/horns.jpg"
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/horns.jpg"
 			title = "Ox horn on wood."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/vase.jpg"
-			thumb = "thumbs/vase.jpg"
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/vase.jpg"
 			title = "Terracotta vase: back."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/totem.jpg"
-			thumb = "thumbs/totem.jpg"
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/totem.jpg"
 			title = "The old man in cypress: front."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/table.jpg"
-			thumb = "thumbs/table.jpg"
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/table.jpg"
 			title = "Coffee table in solid cypress."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/vase-progress.jpg"
-			thumb = "thumbs/vase-progress.jpg"
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/vase-progress.jpg"
 			title = "A work in progress."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/painting.jpg"
-			thumb = "thumbs/painting.jpg"
+		[[params.portfolio.sculpture.gallery]]
+			image = "sculptures/painting.jpg"
 			title = "A work in progress."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/sculpt.jpg"
-			thumb = "thumbs/sculpt.jpg"
-			title = "A work in progress."
-			description = ""
+	[params.portfolio.makeup]
+		image = "makeup/paint5.jpg"
+		thumb = "makeup.jpg"
+		title = "Makeup"
+		description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/mural1.jpg"
-			thumb = "thumbs/mural1.jpg"
-			title = "Mural."
-			description = "Portrait."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/mural2.jpg"
-			thumb = "thumbs/mural2.jpg"
-			title = "Mural."
-			description = "Sports bar decoration."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/mural3.jpg"
-			thumb = "thumbs/mural3.jpg"
-			title = "Mural."
-			description = "Childrens room."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/mural4.jpg"
-			thumb = "thumbs/mural4.jpg"
-			title = "Mural."
-			description = "Shop decoration."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/mural5.jpg"
-			thumb = "thumbs/mural5.jpg"
-			title = "Mural."
-			description = "Interior decoration."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/mural6.jpg"
-			thumb = "thumbs/mural6.jpg"
-			title = "Mural."
-			description = "Interior decoration."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/mural7.jpg"
-			thumb = "thumbs/mural7.jpg"
-			title = "Mural."
-			description = "Sports bar decoration."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/paint1.jpg"
-			thumb = "thumbs/paint1.jpg"
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint1.jpg"
 			title = "Brides makeup."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint2.jpg"
-			thumb = "thumbs/paint2.jpg"
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint2.jpg"
 			title = "Fantasy makeup."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint3.jpg"
-			thumb = "thumbs/paint3.jpg"
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint3.jpg"
 			title = "Fantasy makeup."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint4.jpg"
-			thumb = "thumbs/paint4.jpg"
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint4.jpg"
 			title = "Fantasy makeup."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint5.jpg"
-			thumb = "thumbs/paint5.jpg"
-			title = "Body painting."
-			description = ""
-
-		[[params.portfolio.gallery]]
-			image = "fulls/paint6.jpg"
-			thumb = "thumbs/paint6.jpg"
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint6.jpg"
 			title = "Makeup."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint7.jpg"
-			thumb = "thumbs/paint7.jpg"
-			title = "The Siren"
-			description = "Clay sculpture."
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint7.jpg"
+			title = "The Siren clay sculpture."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint8.jpg"
-			thumb = "thumbs/paint8.jpg"
-			title = "The Siren"
-			description = "Clay sculpture."
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint8.jpg"
+			title = "The Siren clay sculpture."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint9.jpg"
-			thumb = "thumbs/paint9.jpg"
-			title = "Makeup."
-			description = "Carmen Consoli concert."
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint9.jpg"
+			title = "Makeup for Carmen Consoli concert."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint10.jpg"
-			thumb = "thumbs/paint10.jpg"
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint10.jpg"
 			title = "Fantasy makeup."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint11.jpg"
-			thumb = "thumbs/paint11.jpg"
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint11.jpg"
 			title = "Makeup."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint12.jpg"
-			thumb = "thumbs/paint12.jpg"
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint12.jpg"
 			title = "Makeup."
-			description = ""
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint13.jpg"
-			thumb = "thumbs/paint13.jpg"
-			title = "Makeup."
-			description = "Makeup in progress."
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint13.jpg"
+			title = "Makeup in progress."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint14.jpg"
-			thumb = "thumbs/paint14.jpg"
-			title = "Makeup."
-			description = "Makeup in progress."
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint14.jpg"
+			title = "Makeup in progress."
 
-		[[params.portfolio.gallery]]
-			image = "fulls/paint15.jpg"
-			thumb = "thumbs/paint15.jpg"
-			title = "Fantasy makeup."
-			description = "Makeup in progress."
+		[[params.portfolio.makeup.gallery]]
+			image = "makeup/paint15.jpg"
+			title = "Fantasy makeup in progress."
+
+	[params.portfolio.mural]
+		image = "murals/mural4.jpg"
+		thumb = "murals.jpg"
+		title = "Murals"
+		description = ""
+
+		[[params.portfolio.mural.gallery]]
+			image = "murals/mural1.jpg"
+			title = "Portrait."
+
+		[[params.portfolio.mural.gallery]]
+			image = "murals/mural2.jpg"
+			title = "Sports bar decoration."
+
+		[[params.portfolio.mural.gallery]]
+			image = "murals/mural3.jpg"
+			title = "Childrens room."
+
+		[[params.portfolio.mural.gallery]]
+			image = "murals/mural5.jpg"
+			title = "Interior decoration."
+
+		[[params.portfolio.mural.gallery]]
+			image = "murals/mural6.jpg"
+			title = "Interior decoration."
+
+		[[params.portfolio.mural.gallery]]
+			image = "murals/mural7.jpg"
+			title = "Sports bar decoration."
 
 	[params.recentposts]
 		hide  = true
@@ -264,10 +203,10 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "For addional information or commissions, feel free to write or call."
+		content = "Write or call for more information on having custom sculpture, makeup or murals!"
 
 		# This can be exact coordinates or a searchable address in google maps
-		gmaps_address = "39.7889055,-120.5443524"
+		gmaps_address = "37.772947, 15.225001"
 		address = [
 			"Contrada Feotto 7",
 			"Fiumefreddo di Sicilia",
@@ -320,11 +259,11 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 
 	[languages.it.about]
 		title = "Etna Creations"
-		content = """Manufatti artistici e artigianali, i cui colori e forme ispirano alla nostra terra, l'isola di Sicilia.
+		content = """Etna Creations art lab è il progetto di Manuel Badala Patane e Antonella Micalizzi. Produciamo sculture, Make-up proferionali e murales interni ed esterni.
+
+Manufatti artistici e artigianali, i cui colori e forme ispirano alla nostra terra, l'isola di Sicilia.
 Al mare, al vulcano, alla natura rigogliosa.
 I materiali sono il legno, la terracotta e la pietra lavica.
-
-Inoltre murales interni, esterni e Make-up.
 
 Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'isola, ai piedi del vulcano, bagnato dalle sponde del mare Jonio, luogo ideale di ispirazione artistica."""
 
@@ -332,201 +271,139 @@ Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'is
 	[languages.it.portfolio]
 		title = "Le nostre creazioni"
 
-		# The images and thumbnails are stored under static/images
-		# Create and change subfolders as you like
+	[languages.it.portfolio.sculpture]
+		image = "sculptures/sculpt.jpg"
+		thumb = "sculptures.jpg"
+		title = "Manufatti artistici"
+		description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/vase2.jpg"
-			thumb = "thumbs/vase2.jpg"
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/vase2.jpg"
 			title = "Giara in terracotta dipinta a mano."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/totem2.jpg"
-			thumb = "thumbs/totem2.jpg"
-			title = "Il vecchio cipresso."
-			description = "Scultura in legno di cipresso."
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/totem2.jpg"
+			title = "Il vecchio cipresso: Scultura in legno di cipresso."
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/tile.jpg"
-			thumb = "thumbs/tile.jpg"
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/tile.jpg"
 			title = "Vecchia tegola dipinta a mano."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/horns.jpg"
-			thumb = "thumbs/horns.jpg"
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/horns.jpg"
 			title = "Corna di bue su legno."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/vase.jpg"
-			thumb = "thumbs/vase.jpg"
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/vase.jpg"
 			title = "Giara in terracotta: retro."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/totem.jpg"
-			thumb = "thumbs/totem.jpg"
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/totem.jpg"
 			title = "Il vecchio cipresso: frontale."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/table.jpg"
-			thumb = "thumbs/table.jpg"
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/table.jpg"
 			title = "Tavolo basso in legno massello di cipresso."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/vase-progress.jpg"
-			thumb = "thumbs/vase-progress.jpg"
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/vase-progress.jpg"
+			title = "In fase di realizzaziones."
+
+		[[languages.it.portfolio.sculpture.gallery]]
+			image = "sculptures/painting.jpg"
 			title = "In fase di realizzazione."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/painting.jpg"
-			thumb = "thumbs/painting.jpg"
-			title = "In fase di realizzazione."
-			description = ""
+	[languages.it.portfolio.makeup]
+		image = "makeup/paint5.jpg"
+		thumb = "makeup.jpg"
+		title = "Make-up"
+		description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/sculpt.jpg"
-			thumb = "thumbs/sculpt.jpg"
-			title = "In fase di realizzazione."
-			description = ""
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/mural1.jpg"
-			thumb = "thumbs/mural1.jpg"
-			title = "Murales."
-			description = "Ritratto."
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/mural2.jpg"
-			thumb = "thumbs/mural2.jpg"
-			title = "Murales."
-			description = "Decorazione centro scommesse."
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/mural3.jpg"
-			thumb = "thumbs/mural3.jpg"
-			title = "Murales."
-			description = "Camera per bambini."
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/mural4.jpg"
-			thumb = "thumbs/mural4.jpg"
-			title = "Murales."
-			description = "Decorazione negozio."
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/mural5.jpg"
-			thumb = "thumbs/mural5.jpg"
-			title = "Murales."
-			description = "Decorazione interni."
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/mural6.jpg"
-			thumb = "thumbs/mural6.jpg"
-			title = "Murales."
-			description = "Decorazione interni."
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/mural7.jpg"
-			thumb = "thumbs/mural7.jpg"
-			title = "Murales."
-			description = "Decorazione centro scommesse."
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint1.jpg"
-			thumb = "thumbs/paint1.jpg"
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint1.jpg"
 			title = "Make-up sposa."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint2.jpg"
-			thumb = "thumbs/paint2.jpg"
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint2.jpg"
 			title = "Make-up fantasy."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint3.jpg"
-			thumb = "thumbs/paint3.jpg"
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint3.jpg"
 			title = "Make-up fantasy."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint4.jpg"
-			thumb = "thumbs/paint4.jpg"
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint4.jpg"
 			title = "Make-up fantasy."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint5.jpg"
-			thumb = "thumbs/paint5.jpg"
-			title = "Body painting."
-			description = ""
-
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint6.jpg"
-			thumb = "thumbs/paint6.jpg"
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint6.jpg"
 			title = "Make-up."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint7.jpg"
-			thumb = "thumbs/paint7.jpg"
-			title = "Sirena."
-			description = "Scultura in argilla."
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint7.jpg"
+			title = "Sirena: Scultura in argilla."
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint8.jpg"
-			thumb = "thumbs/paint8.jpg"
-			title = "Sirena."
-			description = "Scultura in argilla."
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint8.jpg"
+			title = "Sirena: Scultura in argilla."
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint9.jpg"
-			thumb = "thumbs/paint9.jpg"
-			title = "Make-up."
-			description = "Concerto Carmen Consoli."
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint9.jpg"
+			title = "Concerto Carmen Consoli"
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint10.jpg"
-			thumb = "thumbs/paint10.jpg"
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint10.jpg"
 			title = "Make-up fantasy."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint11.jpg"
-			thumb = "thumbs/paint11.jpg"
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint11.jpg"
 			title = "Make-up."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint12.jpg"
-			thumb = "thumbs/paint12.jpg"
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint12.jpg"
 			title = "Make-up."
-			description = ""
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint13.jpg"
-			thumb = "thumbs/paint13.jpg"
-			title = "Make-up."
-			description = "Preparazione."
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint13.jpg"
+			title = "Preparazione."
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint14.jpg"
-			thumb = "thumbs/paint14.jpg"
-			title = "Make-up."
-			description = "Preparazione."
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint14.jpg"
+			title = "Preparazione."
 
-		[[languages.it.portfolio.gallery]]
-			image = "fulls/paint15.jpg"
-			thumb = "thumbs/paint15.jpg"
-			title = "Make-up fantasy."
-			description = "preparazione."
+		[[languages.it.portfolio.makeup.gallery]]
+			image = "makeup/paint15.jpg"
+			title = "Preparazione."
 
+	[languages.it.portfolio.mural]
+		image = "murals/mural4.jpg"
+		thumb = "murals.jpg"
+		title = "Murals"
+		description = ""
+
+		[[languages.it.portfolio.mural.gallery]]
+			image = "murals/mural1.jpg"
+			title = "Ritratto."
+
+		[[languages.it.portfolio.mural.gallery]]
+			image = "murals/mural2.jpg"
+			title = "Decorazione centro scommesse."
+
+		[[languages.it.portfolio.mural.gallery]]
+			image = "murals/mural3.jpg"
+			title = "Camera per bambini."
+
+		[[languages.it.portfolio.mural.gallery]]
+			image = "murals/mural5.jpg"
+			title = "Decorazione interni."
+
+		[[languages.it.portfolio.mural.gallery]]
+			image = "murals/mural6.jpg"
+			title = "Decorazione interni."
+
+		[[languages.it.portfolio.mural.gallery]]
+			image = "murals/mural7.jpg"
+			title = "Decorazione centro scommesse."
 
 	[languages.it.recentposts]
 		hide = true
@@ -534,8 +411,9 @@ Il laboratorio d'arte Etna Creations è immerso nella natura incantevole dell'is
 
 	[languages.it.contact]
 		title = "Entra in contatto"
-		content = "Per informazioni o stime sulle commissioni, sentitevi liberi di scrivere o chiamare."
+		content = "Scrivere o richiedere ulteriori informazioni su scultura personalizzata, Make-up o murales!"
 		email = "meringa92@hotmail.it"
+		gmaps_address = "37.772947, 15.225001"
 		address = [
 			"Contrada Feotto 7",
 			"Fiumefreddo di Sicilia",
