@@ -1,0 +1,42 @@
+{{ "<!-- portfolio -->" | safeHTML }}
+<section id="two">
+	{{ with .Site.Params.portfolio.title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+	<div class="row">
+
+		<article class="6u 12u$(xsmall) work-item">
+			<a href="{{ $.Site.BaseURL }}images/{{ .Site.Params.portfolio.makeup.image }}" class="image fit thumb"><img src="{{ $.Site.BaseURL }}images/{{ .Site.Params.portfolio.makeup.thumb }}" alt="" /></a>
+			<h3>{{ .Site.Params.portfolio.makeup.title | markdownify }}</h3>
+			<p>{{ .Site.Params.portfolio.makeup.description | markdownify }}</p>
+			<div style="display:none;">
+				{{ range .Site.Params.portfolio.makeup.gallery }}
+					<a href="{{ $.Site.BaseURL }}images/{{ .image }}" class="image fit thumb"></a>
+					<h3>{{ .title | markdownify }}</h3>
+				{{ end }}
+			</div>
+		</article>
+
+		<article class="6u 12u$(xsmall) work-item">
+			<a href="{{ $.Site.BaseURL }}images/{{ .Site.Params.portfolio.sculpture.image }}" class="image fit thumb"><img src="{{ $.Site.BaseURL }}images/{{ .Site.Params.portfolio.sculpture.thumb }}" alt="" /></a>
+			<h3>{{ .Site.Params.portfolio.sculpture.title | markdownify }}</h3>
+			<p>{{ .Site.Params.portfolio.sculpture.description | markdownify }}</p>
+			<div style="display:none;">
+				{{ range .Site.Params.portfolio.sculpture.gallery }}
+					<a href="{{ $.Site.BaseURL }}images/{{ .image }}" class="image fit thumb"></a>
+					<h3>{{ .title | markdownify }}</h3>
+				{{ end }}
+			</div>
+		</article>
+
+		<article class="6u 12u$(xsmall) work-item">
+			<a href="{{ $.Site.BaseURL }}images/{{ .Site.Params.portfolio.mural.image }}" class="image fit thumb"><img src="{{ $.Site.BaseURL }}images/{{ .Site.Params.portfolio.mural.thumb }}" alt="" /></a>
+			<h3>{{ .Site.Params.portfolio.mural.title | markdownify }}</h3>
+			<p>{{ .Site.Params.portfolio.mural.description | markdownify }}</p>
+			<div style="display:none;">
+				{{ range .Site.Params.portfolio.mural.gallery }}
+					<a href="{{ $.Site.BaseURL }}images/{{ .image }}" class="image fit thumb"></a>
+					<h3>{{ .title | markdownify }}</h3>
+				{{ end }}
+			</div>
+		</article>
+	</div>
+</section>
