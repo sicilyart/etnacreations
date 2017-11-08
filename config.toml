@@ -51,7 +51,7 @@ enableRobotsTXT = true
 	[params.about]
 		hide  = false
 		title = "Etna Creations"
-		content = """Etna Creations art lab is the project of Manuel Badala Patane and Antonella Micalizzi. We produce sculptures as well as profressional makeup and interior and exterior murals.
+		content = """Etna Creations art lab is the project of Manuel Badala Patane and Antonella Micalizzi. We produce sculptures as well as profressional makeup and interior or exterior murals.
 
 Art and craft whose colors and shapes are inspired by the sea, the volcano, and the rich nature of our land, the island of Sicily. 
 The materials used are wood, terracotta and lava stone.
@@ -317,7 +317,7 @@ The Etna Creations art lab is immersed in the enchanting nature of the island of
 
 	[languages.it.about]
 		title = "Etna Creations"
-		content = """Etna Creations art lab è il progetto di Manuel Badala Patane e Antonella Micalizzi. Produciamo sculture, Make-up proferionali e murales interni ed esterni.
+		content = """Etna Creations art lab è il progetto di Manuel Badala Patane e Antonella Micalizzi. Produciamo sculture, Make-up proferionali e murales interni o esterni.
 
 Manufatti artistici e artigianali, i cui colori e forme ispirano alla nostra terra, l'isola di Sicilia.
 Al mare, al vulcano, alla natura rigogliosa.
