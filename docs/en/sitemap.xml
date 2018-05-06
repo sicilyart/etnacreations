@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://etnacreations.com/categories/</loc>
+    <loc>https://etnacreations.com/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://etnacreations.com/it/categories/"
+                href="https://etnacreations.com/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://etnacreations.com/categories/"
+                href="https://etnacreations.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://etnacreations.com/</loc>
+    <loc>https://etnacreations.com/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://etnacreations.com/it/"
+                href="https://etnacreations.com/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://etnacreations.com/"
+                href="https://etnacreations.com/"
                 />
   </url>
   
   <url>
-    <loc>http://etnacreations.com/tags/</loc>
+    <loc>https://etnacreations.com/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://etnacreations.com/it/tags/"
+                href="https://etnacreations.com/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://etnacreations.com/tags/"
+                href="https://etnacreations.com/tags/"
                 />
   </url>
   
